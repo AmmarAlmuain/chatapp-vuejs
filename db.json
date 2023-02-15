@@ -1,0 +1,17 @@
+{
+    "curr-user" : [
+      { "username" : "Viego", "email" : "TheRuindKing@gmail.com", "password" : "hentaiheaven", "src" : "https://i.pinimg.com/originals/92/7c/5a/927c5a9ec80ee98a7a772b5335d305e8.png", "status" : "blue"}
+    ],
+    "favorites": [
+      { "name": "Kale", "src": "https://avatarfiles.alphacoders.com/322/322850.jpg", "stories": []},
+      {"name": "Vayne", "src": "https://avatarfiles.alphacoders.com/261/261779.jpg", "stories": []},
+      {"name": "eve", "src": "https://avatarfiles.alphacoders.com/334/334076.jpg", "stories": []},
+      {"name": "lux", "src": "https://avatarfiles.alphacoders.com/335/335701.png", "stories": []}
+    ],
+    "chats": [
+      {"src": "https://avatarfiles.alphacoders.com/337/337077.jpg", "name": "Morgana", "note": "Always Q Them Up!", "lastMsg": ["Wanna Soloq? 🤨"], "status" : "blue"},
+      {"src": "https://avatarfiles.alphacoders.com/301/301913.jpg", "name": "Isolde", "note": "Where Can I Found You?", "lastMsg": ["Why You Not Active Recently... 💖"], "status" : "yellow"},
+      {"src": "https://avatarfiles.alphacoders.com/310/310088.jpg", "name": "Phine", "note": "The Black Mist...", "lastMsg": ["I Already Give Up This Night."], "status" : "red"},
+      {"src": "https://64.media.tumblr.com/f24c14b36af0c9922402ab6425480bf3/a7853545c4ee736e-d6/s540x810/6bd9bc88c70a1a46db64c4a0da185bfd2c438aa6.png", "name": "Gwen", "note": "Its Feel Safe And Warm... 🔥", "lastMsg": ["She Never Loved You Viego."], "status" : "gray"}
+    ]
+  }
